@@ -1,4 +1,5 @@
 // src/models/User.js
+// GITHUB TESTING
 const mongoose = require('mongoose');
 const bcrypt = require('bcrypt');
 
